@@ -984,6 +984,9 @@
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
 		background: #ffe000;
+		background-image: url(/images/navbar-detail.png);
+    background-position: 0;
+		background-repeat: no-repeat repeat;
 		bottom: 4em;
 		left: 0;
 		max-height: calc(80vh - 4em);
