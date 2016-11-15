@@ -984,7 +984,7 @@
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
 		background: #ffe000;
-		background-image: url(/images/navbar-detail.png);
+		background-image: url(../../images/navbar-detail.png);
     background-position: 0;
 		background-repeat: no-repeat repeat;
 		bottom: 4em;
@@ -1400,7 +1400,7 @@
 		-ms-user-select: none;
 		-webkit-user-select: none;
 		background: #ffe000;
-		background-image: url(images/navbar-detail.png);
+		background-image: url(../../images/navbar-detail.png);
     background-position: 0;
 		background-repeat: no-repeat;
 		bottom: -1em;
