@@ -1998,6 +1998,13 @@
 
 /* Footer */
 
+  .footer-title {
+		font-family: "Libre Baskerville";
+		color: #19160e;
+		text-transform: none;
+		text-decoration: underline;
+	}
+
 	#footer .copyright {
 		color: #505051;
 		font-size: 0.9em;
